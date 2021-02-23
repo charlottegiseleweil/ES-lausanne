@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d637c0d5fb12c9588b8060f9837e036",
+    "revision": "21d00dfa1fead26dcf79520124d2f47a",
     "url": "/ES-lausanne/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ES-lausanne/static/css/2.0b5659ac.chunk.css"
   },
   {
-    "revision": "028399a937ca2bfbb069",
+    "revision": "868f096e640a52ad1433",
     "url": "/ES-lausanne/static/css/main.d75b6272.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ES-lausanne/static/js/2.33f9749c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "028399a937ca2bfbb069",
-    "url": "/ES-lausanne/static/js/main.98ce2612.chunk.js"
+    "revision": "868f096e640a52ad1433",
+    "url": "/ES-lausanne/static/js/main.8105838f.chunk.js"
   },
   {
     "revision": "3bfcd077d73611d628eb",
