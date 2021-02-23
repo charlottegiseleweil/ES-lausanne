@@ -16,7 +16,7 @@ function Footer() {
               className="font-italic p-0 m-0 text-white"
               style={{ fontSize: "0.8rem" }}
             >
-              This dashboard was created by:
+              Prototype Early Draft
             </p>
           </Col>
         </Row>

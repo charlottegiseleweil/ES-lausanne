@@ -16,41 +16,14 @@ function LandingPage(props) {
           {/* Here you can include the sections you want on your landing page*/}
           <Row className="p-3 m-0 justify-content-md-center">
             <h1 className="text-center font-weight-light m-2 p-0 ">
-              NatCap’s Viewer Template
+              Text
             </h1>
           </Row>
 
           {/* Project information*/}
           <Row className=" m-0 justify-content-md-center landingSection">
             <h5 className="p-4 font-weight-light ">
-              This viewer template is an open-source tool to communicate spatial
-              data interactively. Users can make it their own interactive viewer
-              with a minimum coding: displaying maps as shapefiles, tilesets,
-              and rasters layers, as well as interactive graphs, such as bar
-              charts. <br />
-              <br />
-              Get started by cloning the codebase in the{" "}
-              <a
-                href="https://github.com/charlottegiseleweil/viewerTemplate"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Github repo{" "}
-              </a>
-              or explore our deployed{" "}
-              <a
-                href="http://viz.naturalcapitalproject.org/viewerTemplate/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                demo-version
-              </a>
-              .
-              <br />
-              <br />
-              Keep in mind graphical integrity principles, and have fun!{" "}
-              <br />
-              Anna & Charlie!
+              Put About text here.
             </h5>
           </Row>
 

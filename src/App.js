@@ -16,18 +16,18 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      viewerTitle: "viewerTemplate",
+      viewerTitle: "Lausanne Ecosystem",
       menuLinks: [
         {
-          title: "Explorer",
+          title: "Ecosystem Services",
           path: "/",
           page: <DashboardPage props={Data().explorer} />,
         },
-        {
+        /*{
           title: "About",
           path: "/about",
           page: <AboutPage />,
-        },
+        },*/
       ],
       showLandingPage: Data().explorer.config.showLandingPage,
     };
